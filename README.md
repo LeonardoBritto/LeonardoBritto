@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou o Leonardo Brito 🦾
 
-Sou Desenvolvedor Desktop e Backend, com experiencia em Delphi e Node. Ja trabalhei com ERP's dando manutenção e desenvolvendo novas funcionalidades e minha ultima experiencia foi em um software de processos publicos voltados para as prefeituras.
+Sou Desenvolvedor Backend, com experiencia em Delphi e Node. Ja trabalhei com ERP's dando manutenção e desenvolvendo novas funcionalidades e minha ultima experiencia foi em um software de processos publicos voltados para as prefeituras.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-brito-064145166/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brittovisky/)
